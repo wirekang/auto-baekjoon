@@ -1,3 +1,7 @@
+# 요구사항
+1. git bash
+2. python
+
 # 사용법
 
 저장소 클론
@@ -6,7 +10,7 @@
 git clone https://github.com/wirekang/auto-baekjoon
 ```
 
-파이썬, requests, bs4 설치 (없을 시)
+requests, bs4 설치 (없을 시)
 
 ```
 pip install requests   
